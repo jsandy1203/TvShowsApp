@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const api = 'http://api.tvmaze.com';
+const api = 'https://api.tvmaze.com';
 
 const state = {
     shows:{},
